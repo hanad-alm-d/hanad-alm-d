@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**hanad-alm-d/hanad-alm-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 About Me
+👨‍💻 Entry-level Software Developer
+🎓 Computer Science graduate
+🚀 Passionate about coding and problem-solving
+💡 Eager to learn new technologies and frameworks
+🔧 Experience with JavaScript, Python, and Java
+🌐 Proficient in MERN Stack (MongoDB, Express.js, React, Node.js)
+🤝 Team player with excellent communication skills
+🔍 Detail-oriented and dedicated to writing clean, efficient code
+🛠️ Contributed to open-source projects
+📚 Always exploring new tools and best practices in software development
+🌱 Enthusiastic about continuous learning and growth in the tech industry
